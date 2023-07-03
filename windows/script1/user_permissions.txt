@@ -1,0 +1,3 @@
+user1,admin
+user2,standard
+user3,admin
